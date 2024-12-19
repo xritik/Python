@@ -14,6 +14,6 @@ myString = input("Enter a word:- ")
 print(len(myString))
 
 if len(myString) > 7:
-    print(myString[::2])
-else:
     print(myString[1::2])
+else:
+    print(myString[0::2])
