@@ -1,4 +1,6 @@
-a = input("Enter your 5 numbers:- ").split(',')
+# assignments are here:-       https://github.com/delvex-community/TaskTrove/tree/main/PythonTask/assignment2
+
+a = input("Enter your 5 numbers like(1,2,3,4,5):- ").split(',')
 # print(a)
 # print(len(a))
 # print(type(a))
