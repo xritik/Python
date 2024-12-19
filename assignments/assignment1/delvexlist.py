@@ -7,12 +7,17 @@
 # >  file name must be delvexlist.py in which you are going to write the code.
 # >  commit this code on your github link under pythonbasic branch. 
 
+# Input Lists are:-
+#       L1=[11, 21, 24, 12, 18]
+#       L2=[14, 44, 25, 37, 13]
+
+
 
 # ***********************************************************************************************************
 
 
-L1 = [1, 2, 3, "apple", "banana", 7]
-L2 = ["orange", 10, 11, [1, 2, 3], "boy"]
+L1=[11, 21, 24, 12, 18]
+L2=[14, 44, 25, 37, 13]
 
 L3 = L1[::2] + L2[1::2]
 print(L3)
