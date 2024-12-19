@@ -6,7 +6,6 @@
 # > file name must be delvexcal.py in which you are writing code.
 # > commit this code on your github link under pythonbasic branch. 
 
-
 # ***********************************************************************************************************
 
 
