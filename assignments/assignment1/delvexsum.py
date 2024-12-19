@@ -1,6 +1,5 @@
 # assignments are here:-       https://github.com/delvex-community/TaskTrove/tree/main/PythonTask/assignment2
 
-
 # The TASK is:-
 
 # > Take 5 integrer input from user.
